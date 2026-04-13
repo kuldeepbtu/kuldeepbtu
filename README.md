@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Kuldeep Singh 👋<br><br>I'm a Computer Science engineer who builds clean,<br>functional web experiences.<br>I care about writing code that's intuitive, reliable,<br>and solves real problems.<br><br>## 🛠️ Tech Stack<br>- **Languages:** Java, JavaScript (ES6+), HTML5, CSS3<br>- **Frameworks:** Tailwind CSS, React.js (Learning)<br>- **Backend:** Java Spring Boot (Learning)<br>- **Tools:** Git, GitHub, VS Code, Linux CLI<br><br>## 🚀 Projects<br>- 💰 **Student Budget Tracker** — Real-time expense<br>  manager built with vanilla JavaScript<br>- 🛒 **Amazon Homepage Clone** — Pixel-perfect<br>  responsive UI with Flexbox & Grid<br><br>## 📈 Currently<br>- Deepening skills in React.js & Spring Boot<br>- Solving DSA problems consistently<br>- Open to Software Engineer Internship opportunities<br><br>## 📬 Let's Connect<br>- 💼 [LinkedIn](https://linkedin.com/in/kuldeep-singh)<br>- 📧 kuldeepbtu@gmail.com
+Java & JavaScript developer building clean, functional web experiences. Strong in DSA, OOP, and responsive design. Currently leveling up in React.js and Spring Boot. Open to Software Engineer Internship opportunities.
 
 
 ## 🌐 Socials:
